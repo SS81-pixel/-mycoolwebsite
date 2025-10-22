@@ -3,7 +3,7 @@ title: "Welcome to my website"
 about:
   id: me
   template: broadside
-  image: img/facebook.png
+  image: img/mypic.png
 ---
 
 ::: {#me}

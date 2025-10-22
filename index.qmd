@@ -9,9 +9,9 @@ about:
 :::{#me}
 
 ## Goals
-
+I want to this website to work for my lab. 
 ## Education
-
+MS-North Carolina State Univesrity, 2023-2025
 ## Experience
 
 :::

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Information",
     "section": "",
-    "text": "I want to this website to work for my lab.\nThanks for checking out my web site!"
+    "text": "I want to this website to work for my lab.\n\n\n\nMS-North Carolina State University, 2023-2025 ## Experience\nThanks for checking out my web site!"
   },
   {
     "objectID": "projects.html#project-2",
@@ -26,5 +26,12 @@
     "title": "Information",
     "section": "",
     "text": "I want to this website to work for my lab."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Information",
+    "section": "",
+    "text": "MS-North Carolina State University, 2023-2025 ## Experience"
   }
 ]

@@ -3,17 +3,17 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: image/facebook.png
+  image: image: img/facebook.png
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
-I want to this website to work for my lab. 
+
+I want to this website to work for my lab.
+
 ## Education
 
 ## Experience
-
 :::
 
 Thanks for checking out my web site!

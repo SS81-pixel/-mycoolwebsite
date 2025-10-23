@@ -4,18 +4,16 @@ about:
   id: me
   template: broadside
 image: img/mypic.png
-
 ---
 
 ::: {#me}
 ## Goals
 
-I want to this website to work for my lab.
+I want this website to work for my lab.
 
 ## Education
-PhD-New Hampshire State University, 2025-Present
-MS-North Carolina State University, 2023-2025
-BS-Banaras Hindu University, 2018-2022
+
+PhD-New Hampshire State University, 2025-Present MS-North Carolina State University, 2023-2025 BS-Banaras Hindu University, 2018-2022
 :::
 
 Thanks for checking out my web site!
